@@ -25,4 +25,4 @@ For the love of god you should install [this](http://stevenf.com/shutupcss/).
 License
 ----------------
 
-MIT because ¯\\_(ツ)_/¯
+MIT because `¯\_(ツ)_/¯`
