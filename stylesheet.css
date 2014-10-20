@@ -1,14 +1,14 @@
-// GitHub "unread notifications" div
+/* GitHub "unread notifications" div */
 .notification-indicator .mail-status.unread {
     display: none !important; 
 }
  
-// 500px "buy this photo" annoyingness
+/* 500px "buy this photo" annoyingness */
 .buy_photo_wrap {
 	display: none !important;
 }
  
-// 500px photo-ratings divs – I'd rather judge photos on their merits than their popularity.
+/* 500px photo-ratings divs – I'd rather judge photos on their merits than their popularity. */
 div.data_wrap.clearfix {
 	display: none !important;
 }
@@ -16,7 +16,7 @@ div.data_wrap.clearfix {
 	display: none !important;
 }
  
-// Facebook's stupid chat div
+/* Facebook's stupid chat div */
 #BuddylistPagelet {
 	display: none !important;
 }
